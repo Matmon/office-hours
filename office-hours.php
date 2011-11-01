@@ -117,9 +117,7 @@ echo '<style type="text/css">
 }
 
 .office-hours-row{
-font-weight:bold;
-	text-shadow: 1px 1px 0px #444;
-	filter: dropshadow(color=#444, offx=1, offy=1);
+
 }
 .days{
     float: left;
